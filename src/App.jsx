@@ -1,7 +1,7 @@
 import { useState } from 'react'
-import Home from './assets/components/Home'
-import Modal from './assets/components/Modal'
-import Sidebar from './assets/components/Sidebar'
+import Home from './components/Home'
+import Modal from './components/Modal'
+import Sidebar from './components/Sidebar'
 
 function App() {
   return (
